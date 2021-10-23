@@ -107,9 +107,4 @@ Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoic
 ``` 
 /redoc/
 /swagger/ 
-``` 
-
-### Авторы 
-- Дмитрий Халаимов
-- Роман Гербер
-- Алексей Положенцев
+```
