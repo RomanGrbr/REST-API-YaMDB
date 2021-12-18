@@ -17,12 +17,12 @@ API позволяет:
 
 Клонировать GitHub-репозиторийи : 
 ``` 
-git clone https://github.com/khalaimovda/api_yamdb.git
+git clone https://github.com/RomanGrbr/REST-API-YaMDB.git
 ``` 
 
 Перейти в директорию проекта:
 ``` 
-cd api_yamdb
+cd REST-API-YaMDB
 ``` 
 
 Cоздать и активировать виртуальное окружение: 
